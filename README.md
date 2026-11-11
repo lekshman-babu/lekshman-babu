@@ -38,12 +38,6 @@ My work has been **patented** (Indian Patent Office, 2024) and **published** (Be
 
 ## Professional Experience
 
-### Machine Learning Engineer — RKB Associates
-`May 2023 – July 2024`
-
-- Designed a facial recognition attendance system using **PyTorch** and transformer-based FaceNet embeddings with **MinIO** image storage for real-time identity verification — reducing manual check-in time by **40%** across 30 employees.
-- Built an **inventory forecasting pipeline** using ARIMA time-series modeling to automate stock health prediction and purchase list generation — cutting procurement overhead by **70%** via a unified ETL pipeline for ingestion, transformation, and reporting.
-
 ### Machine Learning Engineer Intern — KriyaDocs
 `February 2023 – April 2023`
 
